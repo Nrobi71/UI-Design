@@ -1,0 +1,5 @@
+![Paradigm Pet Professionals (6) (1)-1](https://github.com/Nrobi71/Resume/assets/96146103/4a2d0e5f-32fc-45fb-9fd7-0a1eef0d51f3)
+![Paradigm Pet Professionals (6) (1)-2](https://github.com/Nrobi71/Resume/assets/96146103/e019c7d0-0119-4c06-8bf2-866d59a13644)
+![Paradigm Pet Professionals (6) (1)-3](https://github.com/Nrobi71/Resume/assets/96146103/5e6f1947-4ba9-479b-9ac3-d34848336935)
+![Paradigm Pet Professionals (6) (1)-4](https://github.com/Nrobi71/Resume/assets/96146103/2280077a-0fad-456f-8be8-1377233b4690)
+![Paradigm Pet Professionals (6) (1)-5](https://github.com/Nrobi71/Resume/assets/96146103/dd9a4036-c190-45cb-988d-8f80691295e7)
