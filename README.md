@@ -4,20 +4,20 @@
 
 ## TASK 1: PROJECT PROPOSAL WITH STRATEGIES
 
-# INTRODUCTION:
+### INTRODUCTION:
 
 I evaluated the provided “Paradigm Pet Professionals Website” in the Web Links section and the attached “Paradigm Pet Professionals UI Design Specifications.” I developed plans to create information architecture for various user personas and stakeholder needs while adhering to accessibility standards. I also developed a maintenance plan that includes SEO and consideration of a future mobile-friendly web page design.
 
 
 
-# SCENARIO:
+### SCENARIO:
 
 I was recently hired as a UI/UX Designer for Synesthor, an IT services company that offers on-site consultation for small businesses without an IT department. Synesthor recently contracted with Paradigm Pet Professionals, a company that specializes in providing virtual consultations to pet owners with state-of-the-art, evidence-based health and well-being information. Its website was designed by a part-time intern 10 years ago. Most people who visit the website are prospective and new pet owners located in the United States who seek information about basic pet care and are interested in speaking with a consultant. Paradigm Pet Professionals contracted with Synesthor’s UI/UX department to develop a responsive website to meet the needs of its company and the needs of users.
 
 Your first task is to evaluate the existing website and user design specifications provided by Paradigm Pet Professionals (see Web Links and Supporting Documents sections). You will also develop a sitemap, wireframe, and maintenance plan for the redeveloped website.
 
 
-# REQUIREMENTS:
+### REQUIREMENTS:
 
 A.  Using the attached “Paradigm Pet Professional UI Design Specifications” and existing “Paradigm Pet Professionals Website” from the Web Links section, compare the content, functionality, and navigation of the current website to user specifications and evaluate audience and stakeholders needs by doing the following:
 
@@ -99,18 +99,18 @@ E.  Demonstrate professional communication in the content and presentation of yo
 ## TASK 2: MULTIPAGE WEBSITE PROTOTYPE
 
 
-# INTRODUCTION:
+### INTRODUCTION:
 
 I created an interactive desktop prototype based on the attached “Paradigm Pet Professionals UI Design Specifications.” My prototype addresses both audience and stakeholder needs.
 
 
-# SCENARIO
+### SCENARIO
 
 I was recently hired as a UI/UX Designer for Synesthor, an IT services company that offers on-site consultation for small businesses without an IT department. Synesthor recently contracted with Paradigm Pet Professionals, a company that specializes in providing virtual consultations with pet owners based on state-of-the-art, evidence-based health and well-being information. Its website was designed by a part-time intern 10 years ago. Most people who visit the website are prospective and new pet owners located in the United States who seek information about basic pet care and are interested in speaking with a consultant. Paradigm Pet Professionals contracted with Synesthor’s UI/UX department to develop a responsive website to meet the needs of its company and its existing and potential users.
 
 
 
-# REQUIREMENTS:
+### REQUIREMENTS:
 
 A.  Create an interactive desktop prototype based on the audience and stakeholder needs using the attached “Paradigm Pet Professional UI Design Specifications” by doing the following:
 
